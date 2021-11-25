@@ -6,7 +6,7 @@ function App() {
     <div className="App">
      <footer>
        This project was created by Iyana Wilson
-       <a href="" target="_blank"> open-sourced on GitHub
+       <a href="https://github.com/iyana-wilson/weather-project" target="_blank" rel="noreferrer"> as an open-source on GitHub
        </a>
        </footer>
     </div>
