@@ -1,0 +1,8 @@
+.Weatherforecast {
+    text-align: center;
+}
+
+.Weatherforecast-min{
+    opacity: 0.6;
+    margin-left: 4px;
+}
