@@ -3,7 +3,7 @@ import WeatherInfo from "./WeatherInfo";
 import WeatherForecast from "./WeatherForecast";
 import axios from "axios";
 import "./Weather.css";
-import ForecastDay from "./ForecastDay";
+
 
 export default function Weather(props){
     
